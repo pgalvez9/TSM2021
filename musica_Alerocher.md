@@ -1,4 +1,4 @@
-## Mis tres generos de música favoritos son:
+## Mis tres géneros de música favoritos son:
 * Electrónica
 * Rock alternativo
 * Rock en español
