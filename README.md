@@ -13,9 +13,9 @@
   * Genera un archivo llamado PHP.md
     - Genera un script con un get method que:
     - Si solo se manda la variable Nombre = Update, ID = int,  Valor = int; modifique el valor en la base de datos, PHP debe regresar un OK
-    - Si Solo se manda la variable Nombre = New; genere un nuevo renlgón en la base de datos, PHP debe regresar OK
-    - La estructura de la base de datos por lo tanto solo tiene 2 columbtas ID (automatico) Valor (entero)
+    - Si Solo se manda la variable Nombre = New; genere un nuevo renglon en la base de datos, PHP debe regresar OK
+    - La estructura de la base de datos por lo tanto solo tiene 2 columnas ID (automatico) Valor (entero)
     - Guarda el link de tu metodo PHP y las instrucciones y el script en PHP.md
 
 Haz los commits que sean necesarios pero al terminar genera un pull request con los 3 archivos (Nombres.md, Git.md y PHP.md)
-Asigname a tus compañeros de equipo para hacer el merge
+Asigna a tus compañeros de equipo para hacer el merge
